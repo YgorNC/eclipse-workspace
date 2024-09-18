@@ -19,6 +19,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Workspace\eclipse-workspace"/>
 			<item value="C:\Users\ygor_\Downloads\Projeto"/>
 			<item value="C:\Users\ygor_\Downloads\PROJETO"/>
 		</list>
