@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\ygor_\OneDrive - União Brasileira de Educação Católica – UBEC\Workspace\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2667913370.index
+587191214.index
+3164292621.index
+3190009091.index
+1865797976.index

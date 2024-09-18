@@ -1,0 +1,10 @@
+package entities;
+
+public class UsedProduct extends Product {
+
+	private manufactureDate Date;
+	
+	public UsedProduct() {
+		super();
+	}
+}

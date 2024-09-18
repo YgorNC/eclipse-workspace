@@ -1,0 +1,11 @@
+package Date;
+
+public class Program2 {
+
+	public static void main(String[] args) {
+
+		LocalDate 04 = LocalDate.parse("2022-07-20");
+		
+	}
+
+}

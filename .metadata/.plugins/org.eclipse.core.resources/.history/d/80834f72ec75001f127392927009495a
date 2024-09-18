@@ -1,0 +1,17 @@
+package entities;
+
+public class UsedProduct extends Product {
+
+	private Date manufactureDate ;
+	
+	public UsedProduct() {
+		super();
+	}
+
+	public UsedProduct(String name, Double price, String priceTag, manufactureDate date) {
+		super(name, price, priceTag);
+		Date = date;
+	}
+	
+	
+}

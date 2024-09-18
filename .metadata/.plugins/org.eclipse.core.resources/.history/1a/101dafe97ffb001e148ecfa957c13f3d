@@ -1,0 +1,11 @@
+package application;
+
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		tv_a1 tv1 = new tv_a1();
+	}
+}
